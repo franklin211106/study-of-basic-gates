@@ -1,14 +1,16 @@
-### study-of-basic-gates
+### NAME: Franklin F
+### REG NO: 24900641
+### EXPERIMENT 1 - Study of basic gates
 
-**AIM:** 
+# AIM: 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+# Equipments Required:
 
 Software – Quartus prime 
 
-**Theory**
+# Theory
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -49,7 +51,7 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+# PROCEDURE
 
 1.	Type the program in Quartus software.
 
@@ -62,18 +64,22 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+# PROGRAM
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+![WhatsApp Image 2024-10-29 at 09 20 06_17c84f4a](https://github.com/user-attachments/assets/75bddf49-4581-48ec-864f-d23068439fb7)
  
-**Logic symbol & Truthtable**
+# LOGIC GATE & TRUTHTABLE
 
-**RTL realization Output:** 
+![WhatsApp Image 2024-10-29 at 09 20 05_e35a5495](https://github.com/user-attachments/assets/ab2521b0-cae6-436b-b7f8-9af354d23d58)
 
-**RTL**
+# RTL REALIZATION OUTPUT
 
-**Result:**
+![WhatsApp Image 2024-10-29 at 09 20 06_27c6efe7](https://github.com/user-attachments/assets/ca53b270-df18-44c6-8a16-93aeb8d52b03)
 
+# WAVEFORM OUTPUT
+![WhatsApp Image 2024-10-29 at 09 20 05_988c2ab8](https://github.com/user-attachments/assets/a42f97bb-2cfc-4aa8-8844-a2095948c70d)
+
+# RESULT:
+
+studied and verified the truth table of logic gates in Quartus II using Verilog programming.
 
