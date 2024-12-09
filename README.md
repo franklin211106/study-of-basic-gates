@@ -1,6 +1,6 @@
-### NAME: Franklin F
-### REG NO: 24900641
-### EXPERIMENT 1 - Study of basic gates
+# NAME: Franklin F
+# REG NO: 24900641
+# EXPERIMENT 1 - Study of basic gates
 
 # AIM: 
 
